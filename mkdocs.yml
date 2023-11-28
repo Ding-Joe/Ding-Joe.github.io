@@ -1,3 +1,6 @@
-site_name: My Docs
+site_name: Joe's space
+nav:
+  - Home: index.md
+  - Test: test.md
 theme:
   name: material
