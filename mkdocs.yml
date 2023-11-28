@@ -1,6 +1,6 @@
 site_name: Joe's space
-nav:
-  - Home: index.md
-  - Test: test.md
+#nav:
+#  - Home: index.md
+#  - Test: test.md
 theme:
   name: material
